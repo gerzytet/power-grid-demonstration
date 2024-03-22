@@ -2,6 +2,6 @@ This project is an educational tool to deonstrate the basic workings of the powe
 This was created as part of a 12-hour hackathon at IEEE SouthEastCon
 
 Authors:
-Craig White
-Zane Wolfe
-Maxx Lowy
+- Craig White
+- Zane Wolfe
+- Maxx Lowy
